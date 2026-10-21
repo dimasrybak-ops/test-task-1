@@ -1,3 +1,7 @@
+"""
+Перед запуском выполнить python -m pip install requests !
+"""
+
 import csv
 import time
 import random
